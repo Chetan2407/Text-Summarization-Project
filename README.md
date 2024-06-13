@@ -60,6 +60,5 @@ Email: chetanrajmota@gmail.com
 
 
 ## 3. Create ECR repo to store/save docker image
-
-
+   - save the URI: public.ecr.aws/v4v4w0t1/text-s
 ## 4. Create EC2 machine
