@@ -32,7 +32,7 @@ open up your local host and port
 Author: Chetan Raj
 Data Scientist
 Email: chetanrajmota@gmail.com
-
+```
 
 # AWS-CICD-Deployment-with Github-Actions
 
